@@ -1,5 +1,5 @@
 import { Button, Loader } from 'semantic-ui-react';
-import LoginForm from '../components/LoginForm';
+import LoginForm from '../components';
 import { useRouter } from 'next/router';
 import { useState } from 'react';
 
